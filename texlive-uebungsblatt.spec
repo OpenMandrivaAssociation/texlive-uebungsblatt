@@ -6,7 +6,7 @@
 # catalog-version v1.5.0
 Name:		texlive-uebungsblatt
 Version:	v1.5.0
-Release:	5
+Release:	6
 Summary:	A LaTeX class for writing exercise sheets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uebungsblatt
