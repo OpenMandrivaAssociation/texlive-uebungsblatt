@@ -1,12 +1,6 @@
-# revision 15878
-# category Package
-# catalog-ctan /macros/latex/contrib/uebungsblatt
-# catalog-date 2008-08-24 14:43:48 +0200
-# catalog-license lppl
-# catalog-version v1.5.0
 Name:		texlive-uebungsblatt
-Version:	v1.5.0
-Release:	10
+Version:	1.5.0
+Release:	1
 Summary:	A LaTeX class for writing exercise sheets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uebungsblatt
@@ -54,16 +48,3 @@ only.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> v1.5.0-2
-+ Revision: 757240
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> v1.5.0-1
-+ Revision: 719833
-- texlive-uebungsblatt
-- texlive-uebungsblatt
-- texlive-uebungsblatt
-
