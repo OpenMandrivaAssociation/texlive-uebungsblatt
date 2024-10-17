@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	A LaTeX class for writing exercise sheets
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uebungsblatt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uebungsblatt
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uebungsblatt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uebungsblatt.doc.r%{version}.tar.xz
